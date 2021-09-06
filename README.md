@@ -1,3 +1,3 @@
-# sa-icons
-Icons for [`sa-react`](https://github.com/RisaI/sa-react).
+# graphium-icons
+Icons for [`graphium-web`](https://github.com/RisaI/graphium-web).
 
